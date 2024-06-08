@@ -55,7 +55,7 @@ pip install colorama
 To use KeyForge Password Generator, run the following command:
 
 ```
-python keyforge.py
+python KeyForge.py
 ```
 
 Follow the on-screen instructions to generate secure passwords or test password security.
