@@ -1,4 +1,3 @@
-```markdown
 # KeyForge Password Generator
 
 Welcome to KeyForge Password Generator! This tool allows you to generate secure passwords and test password security.
@@ -8,6 +7,7 @@ Welcome to KeyForge Password Generator! This tool allows you to generate secure 
 To use KeyForge Password Generator, follow these steps:
 
 1. Open Termux on your Android device.
+   
 2. Update the package lists:
 
 ```
